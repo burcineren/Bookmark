@@ -1,0 +1,11 @@
+{
+  "bookmarks": [
+    {
+      "title": "Bookmark2",
+      "description": "Açıklama",
+      "url": "https://www.google.com/",
+      "cardState": false,
+      "id": 1
+    }
+  ]
+}
